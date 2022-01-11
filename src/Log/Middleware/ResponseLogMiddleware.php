@@ -4,7 +4,7 @@
  * @Author: (c) Pian Zhou <pianzhou2021@163.com>
  * @Date: 2022-01-08 22:26:13
  * @LastEditors: Pian Zhou
- * @LastEditTime: 2022-01-10 22:58:43
+ * @LastEditTime: 2022-01-10 23:14:39
  */
 
 namespace Pianzhou\Laravel\Log\Middleware;
@@ -29,7 +29,7 @@ class ResponseLogMiddleware
     protected $skipIfDebug  = false;
 
     /**
-     * The names of the cookies that should not be encrypted.
+     * 配置中的路径将不会被记录
      *
      * @var array
      */
