@@ -1,5 +1,13 @@
 # pianzhou/laravel
 
+## 安装
+
+You can add this library as a local, per-project dependency to your project using [Composer](https://getcomposer.org/):
+
+```
+composer require pianzhou/laravel
+```
+
 # 数据库Driver
 使用方法：
 直接在app.php中，添加provider配置项
