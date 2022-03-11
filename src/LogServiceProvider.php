@@ -1,6 +1,13 @@
 <?php
+/*
+ * @Description: 
+ * @Author: (c) Pian Zhou <pianzhou2021@163.com>
+ * @Date: 2022-03-11 20:44:37
+ * @LastEditors: Pian Zhou
+ * @LastEditTime: 2022-03-11 20:49:26
+ */
 
-namespace Pianzhou\Laravel\Log;
+namespace Pianzhou\Laravel\Monolog;
 
 use Illuminate\Support\ServiceProvider;
 
