@@ -4,9 +4,9 @@
  * @Author: (c) Pian Zhou <pianzhou2021@163.com>
  * @Date: 2022-01-01 18:10:52
  * @LastEditors: Pian Zhou
- * @LastEditTime: 2022-03-11 20:49:04
+ * @LastEditTime: 2022-03-11 20:59:17
  */
-namespace Pianzhou\Laravel\Monolog;
+namespace Pianzhou\Laravel\Log;
 
 use Illuminate\Support\ServiceProvider;
 use Pianzhou\Monolog\Handler\DatabaseHandler;

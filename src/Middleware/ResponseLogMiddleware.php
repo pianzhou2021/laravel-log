@@ -4,10 +4,10 @@
  * @Author: (c) Pian Zhou <pianzhou2021@163.com>
  * @Date: 2022-01-08 22:26:13
  * @LastEditors: Pian Zhou
- * @LastEditTime: 2022-03-11 20:50:06
+ * @LastEditTime: 2022-03-11 20:59:44
  */
 
-namespace Pianzhou\Laravel\Monolog\Middleware;
+namespace Pianzhou\Laravel\Log\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;

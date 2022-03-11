@@ -1,15 +1,15 @@
 {
-    "name": "pianzhou/laravel-monolog",
+    "name": "pianzhou/laravel-log",
     "description": "This is laravel extendsion packages",
     "keywords": ["laravel", "log", "psr-3"],
-    "homepage": "https://github.com/pianzhou2021/laravel-monolog",
+    "homepage": "https://github.com/pianzhou2021/laravel-log",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Pian Zhou",
             "email": "pianzhou2021@163.com",
-            "homepage": "https://github.com/pianzhou2021/laravel-monolog"
+            "homepage": "https://github.com/pianzhou2021/laravel-log"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     "suggest": {
     },
     "autoload": {
-        "psr-4": {"Pianzhou\\Laravel\\Monolog\\": "src/"}
+        "psr-4": {"Pianzhou\\Laravel\\Log\\": "src/"}
     },
     "autoload-dev": {
     },
@@ -30,10 +30,6 @@
         "branch-alias": {
             "dev-master": "1.x-dev"
         }
-    },
-    "scripts": {
-        "test": "vendor/bin/phpunit",
-        "phpstan": "vendor/bin/phpstan analyse"
     },
     "config": {
         "lock": false,

@@ -1,5 +1,5 @@
 <?php
-namespace Pianzhou\Laravel\Monolog;
+namespace Pianzhou\Laravel\Log;
 
 use Illuminate\Log\LogManager as LaravelLogManager;
 use InvalidArgumentException;

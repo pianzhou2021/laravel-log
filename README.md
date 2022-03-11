@@ -1,11 +1,11 @@
-# pianzhou/laravel-monolog
+# pianzhou/laravel-log
 
 ## 安装
 
 You can add this library as a local, per-project dependency to your project using [Composer](https://getcomposer.org/):
 
 ```
-composer require pianzhou/laravel-monolog
+composer require pianzhou/laravel-log
 ```
 
 # 数据库Driver
